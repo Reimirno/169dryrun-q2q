@@ -10,7 +10,7 @@ jobs:
     - name: Install Ruby (3.0)
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: '3.0' # Not needed with a .ruby-version file
+        ruby-version: '3.0.0' # Not needed with a .ruby-version file
     - name: Build and test with RSpec
       run: |
         gem install bundler
