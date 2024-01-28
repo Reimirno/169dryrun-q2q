@@ -1,6 +1,6 @@
 project:
   name: 'q2q'
-  owner: 'CS169L-24'
+  owner: 'CS169L-22'
   teamId: '123'
   identities:
     pivotal: 'https://www.pivotaltracker.com/n/projects/2689606'
