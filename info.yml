@@ -4,7 +4,7 @@ project:
   teamId: '123'
   identities:
     pivotal: 'https://www.pivotaltracker.com/n/projects/2689606'
-    heroku: 'https://q2q-f6d0dd1a9ffd.herokuapp.com'
+    heroku: 'https://goldenflow-showcase-project.herokuapp.com/'
   members:
     member1:
       name: 'Yu'
