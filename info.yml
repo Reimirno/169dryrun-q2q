@@ -1,0 +1,14 @@
+project:
+  name: 'q2q'
+  owner: 'CS169L-24'
+  teamId: '123'
+  identities:
+    pivotal: 'https://www.pivotaltracker.com/n/projects/2689606'
+    heroku: 'https://q2q-f6d0dd1a9ffd.herokuapp.com/'
+  members:
+    member1:
+      name: 'Yu'
+      surname: 'Long' 
+      githubUsername: 'reimirno'
+      pivotalUsername: 'yulong'
+      herokuEmail: 'long_yu@berkeley.edu'
