@@ -1,24 +1,5 @@
-# README
+# CS 169L Dry Run - Q2Q Assignment
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<a href="https://codeclimate.com/github/Reimirno/169dryrun-q2q/maintainability"><img src="https://api.codeclimate.com/v1/badges/4cbe6f549293834b3907/maintainability" /></a>
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is just Yu's dry-run of the Q2Q assignment for CS 169L Sp'24 Offering. It should not be used as an model answer or sample project.
